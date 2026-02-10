@@ -6,4 +6,13 @@ const theme = createTheme({
   },
 });
 
+export const rootStyles = {
+  "#root": {
+    height: "100vh",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+  },
+};
+
 export default theme;
