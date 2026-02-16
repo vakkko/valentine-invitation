@@ -1,11 +1,11 @@
 import React from "react";
 
-import PicsTable from "./components/PicsTable/PicsTable";
+import PicsContainer from "./components/PicsContainer/PicsContainer";
 
 const App: React.FC = () => {
   return (
     <>
-      <PicsTable />
+      <PicsContainer />
     </>
   );
 };
