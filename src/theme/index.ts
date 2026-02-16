@@ -13,6 +13,13 @@ export const rootStyles = {
     justifyContent: "center",
     alignItems: "center",
   },
+
+  button: {
+    border: "none",
+    padding: "0",
+    cursor: "pointer",
+    background: "none",
+  },
 };
 
 export default theme;

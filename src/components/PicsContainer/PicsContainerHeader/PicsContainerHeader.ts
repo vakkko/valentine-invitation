@@ -6,6 +6,7 @@ export const PicsContainerHeaderStyles: SxProps<Theme> = {
   alignItems: "center",
   justifyContent: "space-between",
   padding: "0.5rem",
+  mb: "1rem",
 
   img: {
     width: "150px",
